@@ -1,21 +1,20 @@
-YouTube Clone
+# YouTube Clone 🎥
 
-A simple YouTube Clone built using HTML and CSS to replicate the basic UI of YouTube, including a navbar, sidebar, video grid, and responsive design.
+A simple front-end clone of YouTube built using HTML and CSS. This project replicates the basic user interface of YouTube, including a navbar, sidebar, video grid layout, and responsive design for various screen sizes.
 
-Features
+## 🔗 Live Demo
 
-Responsive design for different screen sizes
+[View Live](https://shleshitha.github.io/YouTube-Clone/)  
 
-Navigation bar with search functionality (non-functional, UI only)
+## ✨ Features
 
-Sidebar with various categories
+- Responsive design for mobile, tablet, and desktop
+- Navigation bar with logo, search box, and user icon (UI only)
+- Sidebar with category icons
+- Video grid layout similar to YouTube
+- Hover effects and transitions for interactive feel
 
-Video grid layout similar to YouTube
+## 🛠 Technologies Used
 
-Hover effects and animations
-
-Technologies Used
-
-HTML
-
-CSS (Flexbox, Grid, Media Queries)
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
